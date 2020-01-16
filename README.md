@@ -1,1 +1,3 @@
-# BlaiseDevops_Env_helloworld
+# maven-project
+
+Simple Maven Project
